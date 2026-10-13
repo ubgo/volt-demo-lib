@@ -1,5 +1,5 @@
 // Package slug is the library-repo demo for volt
-// (github.com/khanakia/voltkit): an importable package at the repo root,
+// (github.com/ubgo/voltkit): an importable package at the repo root,
 // bare vX.Y.Z tags, releases that carry notes but no binaries — the artifact
 // that matters is the module proxy entry.
 package slug

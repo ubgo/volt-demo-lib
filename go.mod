@@ -1,3 +1,3 @@
-module github.com/khanakia/volt-demo-lib
+module github.com/ubgo/volt-demo-lib
 
 go 1.22
